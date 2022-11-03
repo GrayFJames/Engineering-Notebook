@@ -1,0 +1,3 @@
+I am late in adding this weeks engineering notebook entry. I have continued to research into software design and implementations, and I have begun looking into algorithms for robotic movement. I have yet to find one that seems to be suited for our task, but I shall continue to look. I have continued to work on reading and looking into the poppy library for the coding portion.
+
+I am looking at videos of robotic walking, mostly looking at Poppy walking videos. We have begun to make a centralized word document to collect all of our research topics/answers/data we've all been looking into.
