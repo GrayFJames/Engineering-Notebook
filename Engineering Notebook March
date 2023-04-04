@@ -1,0 +1,13 @@
+I haven't done this in a while, so I'm just going to write a whole one for the month of March.
+
+For the first couple of weeks in March, we worked on getting the robot movement going. We moved on from sine wave movement to a stop motion-esque. The stop motion 
+movement worked much better than the sine wave movement system that we were working on before, so we are working on getting that put together for a natural step. We are
+running into problems with the legs are not going to be able to lift up the upper body. When we try to lift one of the legs, the entire robot leans on the leg that we 
+attempt to lift which causes problems when trying to walk.
+
+We later got the robot to get into a squatting position from standing. We ran into a problem that the legs could not lift the upper body back to a standing position from 
+the squat because the motors in the kneeds would buckle and the robot would fall to the ground. We have come up with a plan to upgrade the knees to a bigger motor to
+allow for more torque, which involves making the knee bigger to allow for the upgrade motor to fit, and the mechanical portion of the team are planning to add springs to
+the knee to assist in lifting the robot back to a standing position. We also attempted to include an gyroscopic accelerometer, but the conclusion we may have come to is 
+that it wouldn't work with the wires and motors we have. So far, we have only really been able to get the robot to squat but not stand back up, and we haven't been able
+to get it to lift its leg to allow for walking. 
